@@ -1,0 +1,13 @@
+{
+    "files": {
+        "README.md": "c336e780fec174455d0b32dd3bf630866b7cad43774b1bdcf9d1b07a7d802e3a",
+        "index.js": "f49ef32d5977cf790ead3c700cf1b2b8f55423fbb17d76636ae9321bc6d5ac47",
+        "module.json": "0fa381f375539881ffad02755d5e9f1b037a74cb03ec6e6d89b84c9fe0f4be0f"
+    },
+    "defs": {
+        "C_CHAT": 2,
+        "S_CHAT": 2,
+        "S_DUNGEON_EVENT_GAGE": 1,
+        "S_DUNGEON_EVENT_MESSAGE": 2
+    }
+}

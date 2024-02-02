@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "tera-message",
+    "options": {
+        "niceName": "TERA-Message",
+        "guiName": "TERA-Message"
+    },
+    "author": "ZC",
+    "description": "Proxy output color text",
+    "servers": ["https://raw.githubusercontent.com/war10ckula/tera-message/main/"],
+    "version": "31.04 - 92.04"
+}
